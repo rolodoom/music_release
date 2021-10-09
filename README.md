@@ -1,2 +1,2 @@
-# music_release
+# Music Release
 Music release manager
