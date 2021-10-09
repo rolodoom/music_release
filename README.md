@@ -4,7 +4,7 @@ A Simple Music release manager for my site https://rolandoramostorres.com
 # Installation
 * Download, install and activate the [latest release](https://github.com/rolodoom/music_release/releases)
 * Install and activate [ACF plugin](https://wordpress.org/plugins/advanced-custom-fields/)
-* Download and import [music_release-acf.json ](https://raw.githubusercontent.com/rolodoom/music_release/main/assets/music_release-acf.json)
+* Download and import [music_release-acf.json ](https://raw.githubusercontent.com/rolodoom/music_release/main/assets/acf/music_release-acf.json)
 
 
 ## Why Advanced Custom Fields (ACF) ?
