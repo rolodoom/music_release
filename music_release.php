@@ -25,8 +25,6 @@ define( 'MUSICRELEASE_PLUGIN_URL', __FILE__ );
 // Includes
 include( 'includes/activate.php' );
 include( 'includes/init.php' );
-include( 'includes/front/plugin-functions.php' );
-include( 'includes/front/enqueue.php' );
 include( 'includes/admin/custom-post-types.php' );
 include( 'includes/admin/custom-taxonomies.php' );
 
