@@ -1,0 +1,854 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: musicrelease\n"
+"POT-Creation-Date: 2021-10-11 11:02-0500\n"
+"PO-Revision-Date: 2021-10-11 11:02-0500\n"
+"Last-Translator: \n"
+"Language-Team: rolodoom@gmail.com\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/activate.php:5
+msgid "You must update Wordpress to use this plugin"
+msgstr "Debes actualizar Wordpress para usar este plugin"
+
+#: includes/admin/custom-post-types.php:12
+msgctxt "post type general name"
+msgid "Releases"
+msgstr "Lanzamientos"
+
+#: includes/admin/custom-post-types.php:13
+msgctxt "post type singular name"
+msgid "Release"
+msgstr "Lanzamiento"
+
+#: includes/admin/custom-post-types.php:14
+msgctxt "admin menu"
+msgid "Releases"
+msgstr "Lanzamientos"
+
+#: includes/admin/custom-post-types.php:15
+msgctxt "add new on admin bar"
+msgid "Release"
+msgstr "Lanzamiento"
+
+#: includes/admin/custom-post-types.php:16
+msgctxt "release"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/admin/custom-post-types.php:17
+msgid "Add New Release"
+msgstr "Agregar nueva lanzamiento"
+
+#: includes/admin/custom-post-types.php:18
+msgid "New Release"
+msgstr "Nuevo lanzamiento"
+
+#: includes/admin/custom-post-types.php:19
+msgid "Edit Release"
+msgstr "Editar lanzamiento"
+
+#: includes/admin/custom-post-types.php:20
+msgid "View Release"
+msgstr "Ver lanzamiento"
+
+#: includes/admin/custom-post-types.php:21
+msgid "All Releases"
+msgstr "Todas las lanzamientos"
+
+#: includes/admin/custom-post-types.php:22
+msgid "Search Releases"
+msgstr "Buscar lanzamientos"
+
+#: includes/admin/custom-post-types.php:23
+msgid "Parent Releases:"
+msgstr "Lanzamientos Padre:"
+
+#: includes/admin/custom-post-types.php:24
+msgid "No releases found."
+msgstr "Ninguna lanzamiento encontrado."
+
+#: includes/admin/custom-post-types.php:25
+msgid "No releases found in Trash."
+msgstr "Ninguna lanzamiento encontrado en papelera."
+
+#: includes/admin/custom-post-types.php:30
+msgid "Description."
+msgstr "Descripción."
+
+#: includes/admin/custom-taxonomies.php:15
+msgctxt "taxonomy general name"
+msgid "Ensembles"
+msgstr "Ensambles"
+
+#: includes/admin/custom-taxonomies.php:16
+msgctxt "taxonomy singular name"
+msgid "Ensemble"
+msgstr "Ensamble"
+
+#: includes/admin/custom-taxonomies.php:17
+msgid "Search Ensembles"
+msgstr "Buscar ensamble"
+
+#: includes/admin/custom-taxonomies.php:18
+msgid "All Ensembles"
+msgstr "Todas los ensambles"
+
+#: includes/admin/custom-taxonomies.php:19
+msgid "Parent Ensemble"
+msgstr "Ensamble Padre"
+
+#: includes/admin/custom-taxonomies.php:20
+msgid "Parent Ensemble:"
+msgstr "Ensamble Principal:"
+
+#: includes/admin/custom-taxonomies.php:21
+msgid "Edit Ensemble"
+msgstr "Editar ensamble"
+
+#: includes/admin/custom-taxonomies.php:22
+msgid "Update Ensemble"
+msgstr "Actualizar ensamble"
+
+#: includes/admin/custom-taxonomies.php:23
+msgid "Add New Ensemble"
+msgstr "Agregar nuevo ensamble"
+
+#: includes/admin/custom-taxonomies.php:24
+msgid "New Ensemble Name"
+msgstr "Nuevo nombre de ensamble"
+
+#: includes/admin/custom-taxonomies.php:25
+msgid "Ensemble"
+msgstr "Ensamble"
+
+#: includes/admin/custom-taxonomies.php:46
+msgctxt "taxonomy general name"
+msgid "Bands"
+msgstr "Agrupaciones"
+
+#: includes/admin/custom-taxonomies.php:47
+msgctxt "taxonomy singular name"
+msgid "Band"
+msgstr "Agrupación"
+
+#: includes/admin/custom-taxonomies.php:48
+msgid "Search Bands"
+msgstr "Buscar de agrupaciones"
+
+#: includes/admin/custom-taxonomies.php:49
+msgid "All Bands"
+msgstr "Todas las agrupaciones"
+
+#: includes/admin/custom-taxonomies.php:50
+msgid "Parent Band"
+msgstr "Agrupación Padre"
+
+#: includes/admin/custom-taxonomies.php:51
+msgid "Parent Band:"
+msgstr "Agrupación Padre:"
+
+#: includes/admin/custom-taxonomies.php:52
+msgid "Edit Band"
+msgstr "Editar agrupación"
+
+#: includes/admin/custom-taxonomies.php:53
+msgid "Update Band"
+msgstr "Actualizar agrupación"
+
+#: includes/admin/custom-taxonomies.php:54
+msgid "Add New Band"
+msgstr "Agregar nueva agrupación"
+
+#: includes/admin/custom-taxonomies.php:55
+msgid "New Band Name"
+msgstr "Nombre de nueva agrupación"
+
+#: includes/admin/custom-taxonomies.php:56
+msgid "Band"
+msgstr "Agrupación"
+
+#: includes/admin/custom-taxonomies.php:79
+msgctxt "taxonomy general name"
+msgid "Genres"
+msgstr "Géneros"
+
+#: includes/admin/custom-taxonomies.php:80
+msgctxt "taxonomy singular name"
+msgid "Genre"
+msgstr "Género"
+
+#: includes/admin/custom-taxonomies.php:81
+msgid "Search Genres"
+msgstr "Buscar géneros"
+
+#: includes/admin/custom-taxonomies.php:82
+msgid "Popular Genres"
+msgstr "Géneros populares"
+
+#: includes/admin/custom-taxonomies.php:83
+msgid "All Genres"
+msgstr "Todos los géneros"
+
+#: includes/admin/custom-taxonomies.php:86
+msgid "Edit Genre"
+msgstr "Editar género"
+
+#: includes/admin/custom-taxonomies.php:87
+msgid "Update Genre"
+msgstr "Actualizar género"
+
+#: includes/admin/custom-taxonomies.php:88
+msgid "Add New Genre"
+msgstr "Agregar nuevo género"
+
+#: includes/admin/custom-taxonomies.php:89
+msgid "New Genre Name"
+msgstr "Nombre del nuevo género"
+
+#: includes/admin/custom-taxonomies.php:90
+msgid "Separate genres with commas"
+msgstr "Separar géneros con comas"
+
+#: includes/admin/custom-taxonomies.php:91
+msgid "Add or remove genres"
+msgstr "Agregar o quitar géneros"
+
+#: includes/admin/custom-taxonomies.php:92
+msgid "Choose from the most used genres"
+msgstr "Escoger de los géneros más usados"
+
+#: includes/admin/custom-taxonomies.php:93
+msgid "No genres found."
+msgstr "Ningún género encontrado."
+
+#: includes/admin/custom-taxonomies.php:94
+msgid "Genres"
+msgstr "Géneros"
+
+#: includes/admin/custom-taxonomies.php:114
+msgctxt "taxonomy general name"
+msgid "Formats"
+msgstr "Formatos"
+
+#: includes/admin/custom-taxonomies.php:115
+msgctxt "taxonomy singular name"
+msgid "Format"
+msgstr "Formato"
+
+#: includes/admin/custom-taxonomies.php:116
+msgid "Search Formats"
+msgstr "Buscar formatos"
+
+#: includes/admin/custom-taxonomies.php:117
+msgid "Popular Formats"
+msgstr "Formatos populares"
+
+#: includes/admin/custom-taxonomies.php:118
+msgid "All Formats"
+msgstr "Todos los formatos"
+
+#: includes/admin/custom-taxonomies.php:121
+msgid "Edit Format"
+msgstr "Editar formato"
+
+#: includes/admin/custom-taxonomies.php:122
+msgid "Update Format"
+msgstr "Actualizar formato"
+
+#: includes/admin/custom-taxonomies.php:123
+msgid "Add New Format"
+msgstr "Agregar Nuevo formato"
+
+#: includes/admin/custom-taxonomies.php:124
+msgid "New Format Name"
+msgstr "Nombre del nuevo formato"
+
+#: includes/admin/custom-taxonomies.php:125
+msgid "Separate formats with commas"
+msgstr "Separar formatos con comas"
+
+#: includes/admin/custom-taxonomies.php:126
+msgid "Add or remove formats"
+msgstr "Añadir o quitar formatos"
+
+#: includes/admin/custom-taxonomies.php:127
+msgid "Choose from the most used formats"
+msgstr "Escoger delos formatos más usados"
+
+#: includes/admin/custom-taxonomies.php:128
+msgid "No formats found."
+msgstr "No se han encontrado formatos."
+
+#: includes/admin/custom-taxonomies.php:129
+msgid "Formats"
+msgstr "Formatos"
+
+#~ msgctxt "post type general name"
+#~ msgid "Slides"
+#~ msgstr "Diapositivas"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Slide"
+#~ msgstr "Diapositiva"
+
+#~ msgctxt "admin menu"
+#~ msgid "Slides"
+#~ msgstr "Diapositivas"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Slide"
+#~ msgstr "Diapositiva"
+
+#~ msgctxt "slide"
+#~ msgid "Add New"
+#~ msgstr "Añadir nueva"
+
+#~ msgid "Add New Slide"
+#~ msgstr "Agregar Nueva diapositiva"
+
+#~ msgid "New Slide"
+#~ msgstr "Nueva Diapositiva"
+
+#~ msgid "Edit Slide"
+#~ msgstr "Editar Diapositiva"
+
+#~ msgid "View Slide"
+#~ msgstr "Ver Diapositiva"
+
+#~ msgid "All Slides"
+#~ msgstr "Todas las Diapositivas"
+
+#~ msgid "Search Slides"
+#~ msgstr "Buscar Diapositivas"
+
+#~ msgid "Parent Slides:"
+#~ msgstr "Diapositivas Principales:"
+
+#~ msgid "No slides found."
+#~ msgstr "Ninguna diapositiva encontrada."
+
+#~ msgid "No slides found in Trash."
+#~ msgstr "Ninguna diapositiva encontrada en papelera."
+
+#~ msgctxt "post type general name"
+#~ msgid "Scores"
+#~ msgstr "Partituras"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Score"
+#~ msgstr "Partitura"
+
+#~ msgctxt "admin menu"
+#~ msgid "Scores"
+#~ msgstr "Partituras"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Score"
+#~ msgstr "Partitura"
+
+#~ msgctxt "score"
+#~ msgid "Add New"
+#~ msgstr "Añadir nueva"
+
+#~ msgid "Add New Score"
+#~ msgstr "Agregar Nueva partitura"
+
+#~ msgid "New Score"
+#~ msgstr "Nuevo partitura"
+
+#~ msgid "Edit Score"
+#~ msgstr "Editar partitura"
+
+#~ msgid "View Score"
+#~ msgstr "Ver partitura"
+
+#~ msgid "All Scores"
+#~ msgstr "Todos las partituras"
+
+#~ msgid "Search Scores"
+#~ msgstr "Buscar partituras"
+
+#~ msgid "Parent Scores:"
+#~ msgstr "Partituras Principal:"
+
+#~ msgid "No scores found."
+#~ msgstr "Ninguna partitura encontrada."
+
+#~ msgid "No scores found in Trash."
+#~ msgstr "Ninguna partitura encontrada en papelera."
+
+#~ msgctxt "post type general name"
+#~ msgid "Downloads"
+#~ msgstr "Descargas"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Download"
+#~ msgstr "Descarga"
+
+#~ msgctxt "admin menu"
+#~ msgid "Downloads"
+#~ msgstr "Descargas"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Download"
+#~ msgstr "Descarga"
+
+#~ msgctxt "download"
+#~ msgid "Add New"
+#~ msgstr "Añadir nueva"
+
+#~ msgid "Add New Download"
+#~ msgstr "Agregar nueva descarga"
+
+#~ msgid "New Download"
+#~ msgstr "Nueva descarga"
+
+#~ msgid "Edit Download"
+#~ msgstr "Editar descarga"
+
+#~ msgid "View Download"
+#~ msgstr "Ver descarga"
+
+#~ msgid "All Downloads"
+#~ msgstr "Todas las descargas"
+
+#~ msgid "Search Downloads"
+#~ msgstr "Buscar de descargas"
+
+#~ msgid "Parent Downloads:"
+#~ msgstr "Descargas Padre:"
+
+#~ msgid "No downloads found."
+#~ msgstr "Ninguna descarga encontrada."
+
+#~ msgid "No downloads found in Trash."
+#~ msgstr "Ningún descarga en Papelera."
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Slide category"
+#~ msgstr "Categoría para diapositiva"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Slide category"
+#~ msgstr "Categoría para diapositiva"
+
+#~ msgid "Search Slide categories"
+#~ msgstr "Buscar diapositivas"
+
+#~ msgid "All Slide categories"
+#~ msgstr "Todas las diapositivas"
+
+#~ msgid "Parent Slide category"
+#~ msgstr "Categoría Padre para diapositivas"
+
+#~ msgid "Parent Slide category:"
+#~ msgstr "Categoría Padre para diapositivas:"
+
+#~ msgid "Edit Slide category"
+#~ msgstr "Editar diapositiva"
+
+#~ msgid "Update Slide category"
+#~ msgstr "Actualizar diapositiva"
+
+#~ msgid "Add New Slide category"
+#~ msgstr "Agregar nueva diapositiva"
+
+#~ msgid "New Slide category Name"
+#~ msgstr "Nombre nueva categoría diapositiva"
+
+#~ msgid "Slide category"
+#~ msgstr "Categoría de Diapositivas"
+
+#~ msgid "Front page"
+#~ msgstr "Página frontal"
+
+#~ msgid "Slides order"
+#~ msgstr "Orden de las diapositivas"
+
+#~ msgid "Random"
+#~ msgstr "Aleatorio"
+
+#~ msgid "Title - ASC"
+#~ msgstr "Título - ASC"
+
+#~ msgid "Title - DSC"
+#~ msgstr "Título - DSC"
+
+#~ msgid "Number of news to display"
+#~ msgstr "Número de noticias para mostrar"
+
+#~ msgid "Page headers"
+#~ msgstr "Encabezados de página"
+
+#~ msgid "Page header image"
+#~ msgstr "Imagen de encabezado de página"
+
+#~ msgid "Default background image for Page header. 1280 x 480 pixels."
+#~ msgstr "Imagen de fondo predeterminada para el encabezado de la página. 1280 x 480 píxeles."
+
+#~ msgid "Blog header image"
+#~ msgstr "Imagen del encabezado del blog"
+
+#~ msgid "Default background image for Blog header. 1280 x 480 pixels."
+#~ msgstr "Imagen de fondo predeterminada para el encabezado del blog. 1280 x 480 píxeles."
+
+#~ msgid "Post header image"
+#~ msgstr "Imagen del encabezado de la publicación"
+
+#~ msgid "Default background image for Post header. 1280 x 480 pixels."
+#~ msgstr "Imagen de fondo predeterminada para el encabezado de la publicación. 1280 x 480 píxeles."
+
+#~ msgid "Archive header image"
+#~ msgstr "Archivo de imagen de encabezado"
+
+#~ msgid "Default background image for Archive header. 1280 x 480 pixels."
+#~ msgstr "Imagen de fondo predeterminada para el encabezado del archivo. 1280 x 480 píxeles."
+
+#~ msgid "Social networks"
+#~ msgstr "Redes sociales"
+
+#~ msgid "Instagram Handle"
+#~ msgstr "Usuario de Instagram"
+
+#~ msgid "Facebook Handle"
+#~ msgstr "Usuario de Facebook"
+
+#~ msgid "Twitter Handle"
+#~ msgstr "Usuario de Twitter"
+
+#~ msgid "YouTube URL"
+#~ msgstr "URL de Youtube"
+
+#~ msgid "WhatsApp Number"
+#~ msgstr "Número de WhatsApp"
+
+#~ msgid "New Album"
+#~ msgstr "Nuevo Album"
+
+#~ msgid "Out Now"
+#~ msgstr "Disponible Ahora"
+
+#~ msgid "View Album"
+#~ msgstr "Ver Álbum"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Menú Principal"
+
+#~ msgid "RoLo's"
+#~ msgstr "RoLo's"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Configuración del Tema"
+
+#~ msgid "Home Sidebar"
+#~ msgstr "Barra Lateral del Home"
+
+#~ msgid "Home Sidebar for RoLo"
+#~ msgstr "Barra Home de RoLo"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "Barra Lateral del Blog"
+
+#~ msgid "Blog Sidebar for RoLo"
+#~ msgstr "Barra Lateral de RoLo"
+
+#, php-format
+#~ msgid "Results for \"%s\""
+#~ msgstr "Mostrando resultados para \"%s\""
+
+#~ msgid "Nothing here"
+#~ msgstr "No hay nada acá"
+
+#~ msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+#~ msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#~ msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+#~ msgstr "Parece que no podemos encontrar lo que buscas. Puede que otra búsqueda te pueda ayudar."
+
+#~ msgid "Read more"
+#~ msgstr "Leer más"
+
+#~ msgid "More news"
+#~ msgstr "Más noticias"
+
+#~ msgid "Update:"
+#~ msgstr "Actualización:"
+
+#~ msgid "Search:"
+#~ msgstr "Buscar:"
+
+#~ msgid "Description:"
+#~ msgstr "Descripción:"
+
+#~ msgid "Release:"
+#~ msgstr "Lanzamiento:"
+
+#~ msgid "Format:"
+#~ msgstr "Formato:"
+
+#~ msgid "Label:"
+#~ msgstr "Sello:"
+
+#~ msgid "Tracks:"
+#~ msgstr "Pistas:"
+
+#~ msgid "Credits:"
+#~ msgstr "Créditos:"
+
+#~ msgid "Buy Now:"
+#~ msgstr "Comprar Ya:"
+
+#~ msgid "Score description"
+#~ msgstr "Descripción de la partitura"
+
+#~ msgid "Search"
+#~ msgstr "Buscar"
+
+#~ msgid "Footer"
+#~ msgstr "Pie de página"
+
+#~ msgid "Footer for RoLo"
+#~ msgstr "Pie de página para RoLo"
+
+#, fuzzy
+#~| msgctxt "post type general name"
+#~| msgid "Releases"
+#~ msgid "aliases:"
+#~ msgstr "Lanzamientos"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "¡Oops! No se puede encontrar esa página."
+
+#~ msgid "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr "Parece que no se encontró nada en esta ubicación. ¿Tal vez intentando una búsqueda?"
+
+#~ msgid "Social Settings"
+#~ msgstr "Configuración Social"
+
+#~ msgid "Bandcamp URL"
+#~ msgstr "URL de Bandcamp"
+
+#~ msgid "Spotify URL"
+#~ msgstr "URL de Spotify"
+
+#~ msgid "Page not found"
+#~ msgstr "Ningún servicio encontrado"
+
+#~ msgid "Follow Us"
+#~ msgstr "Síganos"
+
+#~ msgid "Secondary Menu"
+#~ msgstr "Menú Secundario"
+
+#~ msgid "Settings Panel"
+#~ msgstr "Panel de Configuración"
+
+#, fuzzy
+#~| msgid "News Settings"
+#~ msgid "Misc Settings"
+#~ msgstr "Configuración de noticias"
+
+#, fuzzy
+#~| msgid "Search Service categories"
+#~ msgid "Terms of Service Page"
+#~ msgstr "Buscar Categorías"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Los comentarios están cerrados."
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Service category"
+#~ msgstr "Categoría para servicios"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Service category"
+#~ msgstr "Categoría para servicio"
+
+#~ msgid "All Service categories"
+#~ msgstr "Todas las Categorías"
+
+#~ msgid "Parent Service category"
+#~ msgstr "Categoría para productos"
+
+#~ msgid "Parent Service category:"
+#~ msgstr "Categoría para productos:"
+
+#~ msgid "Edit Service category"
+#~ msgstr "Editar Categorías"
+
+#~ msgid "Update Service category"
+#~ msgstr "Actualizar Categorías"
+
+#~ msgid "Add New Service category"
+#~ msgstr "Agregar nueva Categoría"
+
+#~ msgid "Service category"
+#~ msgstr "Categoría para servicios"
+
+#~ msgid "Image Alternative Text"
+#~ msgstr "Texto Imagen alternativa"
+
+#~ msgctxt "post type general name"
+#~ msgid "Partner"
+#~ msgstr "Aliado"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Partner"
+#~ msgstr "Aliado"
+
+#~ msgctxt "admin menu"
+#~ msgid "Partners"
+#~ msgstr "Aliados"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Partner"
+#~ msgstr "Aliado"
+
+#~ msgctxt "partner"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid "New Partner"
+#~ msgstr "Nuevo aliado"
+
+#~ msgid "View Partner"
+#~ msgstr "Ver Aliado"
+
+#~ msgid "Search Partners"
+#~ msgstr "Buscar aliados"
+
+#~ msgid "No partners found."
+#~ msgstr "Ningún aliado encontrado."
+
+#~ msgid "No partner found in Trash."
+#~ msgstr "Ningún aliado encontrado en papelera."
+
+#~ msgctxt "post type general name"
+#~ msgid "Service"
+#~ msgstr "Servicio"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Service"
+#~ msgstr "Servicio"
+
+#~ msgctxt "admin menu"
+#~ msgid "Services"
+#~ msgstr "Servicios"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Service"
+#~ msgstr "Servicio"
+
+#~ msgctxt "service"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid "New Service"
+#~ msgstr "Nuevo servicio"
+
+#~ msgid "No service found in Trash."
+#~ msgstr "Ningún servicio encontrado en Papelera."
+
+#~ msgctxt "post type general name"
+#~ msgid "Testimony"
+#~ msgstr "Testimonio"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Testimony"
+#~ msgstr "Testimonio"
+
+#~ msgctxt "admin menu"
+#~ msgid "Testimonies"
+#~ msgstr "Testimonios"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Testimony"
+#~ msgstr "Testimonio"
+
+#~ msgid "Add New Testimony"
+#~ msgstr "Agregar nuevo testimonio"
+
+#~ msgid "New Testimony"
+#~ msgstr "Nuevo Testimonio"
+
+#~ msgid "Edit Testimony"
+#~ msgstr "Editar Testimonio"
+
+#~ msgid "View Testimony"
+#~ msgstr "Ver Testimonio"
+
+#~ msgid "All Testimonies"
+#~ msgstr "Todos los testimonios"
+
+#~ msgid "Search Testimonies"
+#~ msgstr "Buscar testimonios"
+
+#~ msgid "Parent Testimonies:"
+#~ msgstr "Testimonios principal:"
+
+#~ msgid "No testimonies found."
+#~ msgstr "Ningún testimonio encontrado."
+
+#~ msgid "No testimony found in Trash."
+#~ msgstr "Ningún testimonio encontrado en la papelera."
+
+#~ msgctxt "post type general name"
+#~ msgid "Doctor"
+#~ msgstr "Doctor"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Doctor"
+#~ msgstr "Doctor"
+
+#~ msgctxt "admin menu"
+#~ msgid "Doctors"
+#~ msgstr "Doctores"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Doctor"
+#~ msgstr "Doctor"
+
+#~ msgid "Footer 2"
+#~ msgstr "Pie de página 2"
+
+#~ msgid "Footer 3"
+#~ msgstr "Pie de página 3"
+
+#~ msgid "Footer 4"
+#~ msgstr "Pie de página 4"
+
+#~ msgid "Tags"
+#~ msgstr "Etiquetas"
+
+#~ msgid "Mostrando resultados para:"
+#~ msgstr "Mostrando resultados para:"
+
+#~ msgctxt "New Partner"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
+
+#~ msgid "Products"
+#~ msgstr "Productos"
+
+#~ msgid "Product"
+#~ msgstr "Producto"
+
+#~ msgctxt "New Product"
+#~ msgid "Add New"
+#~ msgstr "Añadir nuevo"
